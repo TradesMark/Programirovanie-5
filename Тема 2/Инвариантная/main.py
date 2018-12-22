@@ -1,4 +1,10 @@
+'''
 # Галкин Антон |  ИВТ | 3 курс | 1 подгруппа
+Разработать прототип программы «Калькулятор», позволяющую выполнять базовые
+арифметические действия и функцию обертку, сохраняющую название выполняемой
+операции, аргументы и результат в файл
+'''
+
 
 import xml.etree.ElementTree as ET
 
@@ -86,11 +92,9 @@ def converter(sum, first, second):
 
 
 if __name__ == "__main__":
-  print(converter(10.58,'euro', 'dollar'))
-  print(converter(100, 'rub', 'dollar'))
-  print(converter(90, 'rub', 'euro'))
-  print(converter(10000, 'rubley', 'dollar'))
-  print(converter(1000000, 'euro', 'rub'))
+  print(converter(21,'euro', 'dollar'))
+  print(converter(115, 'rub', 'dollar'))
+
 
 
 

@@ -1,3 +1,10 @@
+'''
+# Галкин Антон |  ИВТ | 3 курс | 1 подгруппа
+3.2 Разработка прототипа приложения “Калькулятор”,
+реализующего паттерн MVC (Model View Controller).
+'''
+
+
 class Calculator:
     """Controller class for Model CalcProcessor and View CalcUI"""
     @staticmethod

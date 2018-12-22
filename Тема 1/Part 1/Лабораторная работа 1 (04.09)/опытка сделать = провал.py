@@ -1,4 +1,6 @@
+
 # Функция выбора системы исчисления
+
 def GetNumSystem():
     while True:
         numSystem = input('Выберите систему исчисления: BIN, OCT, DEC, HEX\n')

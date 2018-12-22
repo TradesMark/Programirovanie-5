@@ -1,4 +1,4 @@
-# конвертер валют https://www.youtube.com/watch?v=XBChPUgpoNs
+
 # Галкин Антон |  ИВТ | 3 курс | 1 подгруппа
 
 from tkinter import *
@@ -17,7 +17,7 @@ def cfKzt():
     EUR.set(round(euro, 4))
 
 def cfUsd():
-   dollar = USD.get()
+    pass
 
 def cfEur():
     pass

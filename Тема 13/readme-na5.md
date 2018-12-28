@@ -1,5 +1,6 @@
 # Задание на 5 
 
-![mountains](/Programirovanie-5/Тема 13/Screenshot_1.png)
 
-![mountains](Programirovanie-5/Тема 13/Screenshot_2.png)
+![Alt-текст](https://drive.google.com/drive/folders/1qWj-62gZdvujK8FpqMe9wTnL7ri2GGvI)
+
+![Alt-текст](https://drive.google.com/drive/folders/1qWj-62gZdvujK8FpqMe9wTnL7ri2GGvI)

@@ -1,5 +1,10 @@
 # Задание на 5 
 <br>
+
+<b>Ссылка на код в GitHub</b> - https://github.com/TradesMark/Programirovanie-5/blob/master/%D0%A2%D0%B5%D0%BC%D0%B0%2013/main.py
+
+<b>Ссылка на repl</b> - https://repl.it/@AntonGalkin/demo1 
+
 Задача посмотреть какая из функций работает быстрее при подаче большого массива данных со случайными числами
 
 

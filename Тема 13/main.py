@@ -1,6 +1,13 @@
 """
 Галкин Антон |  ИВТ | 3 курс | 1 подгруппа
+Задача посмотреть какая из функций работает быстрее при подаче большого массива данных со случайными числами
+
+реализация:
+from random import randint
+ls = [randint(0, 50000) for i in range(9000)]
 """
+from random import randint
+
 
 class Solution:
 
@@ -53,8 +60,11 @@ class Solution:
             if (diff in nums_map.keys()) and (nums_map.get(diff, -1) != i):
                 return [i, nums_map.get(diff)]
 
+ls = [randint(0, 50000) for i in range(9000)]
 
-Solution.two_sum_brute([2, 7, 11, 15], 9)
-assert Solution.two_sum_brute([2, 7, 11, 15], 9) == [0, 1], 'проверка случая с единственным сочетанием элементов'
-Solution.two_sum([2, 7, 11, 15], 9)
-assert Solution.two_sum([2, 7, 11, 15], 9) == [0, 1], 'проверка случая с единственным сочетанием элементов'
+Solution.two_sum_brute(ls, 9)
+
+Solution.two_sum(ls, 9)
+
+
+

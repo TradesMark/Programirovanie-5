@@ -1,6 +1,6 @@
 # Задание на 5 
 
 
-![Alt-текст](https://drive.google.com/drive/folders/1qWj-62gZdvujK8FpqMe9wTnL7ri2GGvI)
+![Alt-текст](https://drive.google.com/file/d/1M1hvUKjZn_a8_BiPsp40PM183bzG9aZL/view)
 
-![Alt-текст](https://drive.google.com/drive/folders/1qWj-62gZdvujK8FpqMe9wTnL7ri2GGvI)
+![Alt-текст](https://drive.google.com/file/d/1GXYCzNb9CdLsWVOtHiHqujg6hwhEujgp/view)

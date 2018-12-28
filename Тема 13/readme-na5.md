@@ -5,9 +5,7 @@
 
 реализация:
 
-
 from random import randint
-
 
 ls = [randint(0, 50000) for i in range(9000)]
 
